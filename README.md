@@ -1,24 +1,53 @@
-👋 Hey, I'm Bana Saketharama
+<!-- ==================== HERO ==================== -->
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Data+%26+AI+Enthusiast;Full-Stack+Developer;Building+Ideas+Into+Real+Products" alt="Typing SVG" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=240&section=header&text=BANA%20SAKETHARAMA&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=DATA%20%7C%20AI%20%7C%20SOFTWARE&descAlignY=60&descSize=18" width="100%" />
+</p>
 
-<p align="center"> <strong>Building at the intersection of Data • AI • Software</strong> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer;Data+%26+AI+Enthusiast;Full-Stack+Developer;Building+Ideas+Into+Real+Products;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing Animation" />
+</p>
 
-<p align="center"> <a href="https://banasaketharama.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-Visit-161B22?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/saketha-rama-bana07110/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="mailto:banasaketharama2005@gmail.com"> <img src="https://img.shields.io/badge/Email-Say%20Hello-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a> </p>
+<p align="center">
+  <strong>Building at the intersection of Data • AI • Software</strong>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SaketharamaBana&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" /> </p>
+<p align="center">
+  <a href="https://banasaketharama.netlify.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-161B22?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saketha-rama-bana07110/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:banasaketharama2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+</p>
 
-✦ About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaketharamaBana&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" alt="Profile Views"/>
+</p>
 
-I'm a Computer Science undergraduate specializing in Big Data Analytics at SRM Institute of Science and Technology.
+---
 
-I enjoy turning data, AI and software ideas into practical products — from intelligent computer-vision systems to data-driven applications.
+# 👋 Hey, I'm Bana Saketharama
 
-🎓 CSE — Big Data Analytics
-📊 CGPA — 9.31 / 10
-💡 Interested in — Data • AI/ML • Software Engineering
-🚀 Currently learning — Data Engineering & Cloud
-⚡ Tech Stack
+I'm a **Computer Science undergraduate specializing in Big Data Analytics** at SRM Institute of Science and Technology.
+
+I enjoy turning **data, AI and software ideas into practical products** — from intelligent computer-vision systems to data-driven applications.
+
+<p align="center">
+
+🎓 **CSE — Big Data Analytics**
+📊 **CGPA — 9.31 / 10**
+💡 **Data • AI/ML • Software Engineering**
+🚀 **Currently exploring Data Engineering & Cloud**
+
+</p>
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
 
@@ -28,22 +57,33 @@ I enjoy turning data, AI and software ideas into practical products — from int
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/SQL-58A6FF?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-58A6FF?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-58A6FF?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-58A6FF?style=flat-square&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-58A6FF?style=flat-square"/> <img src="https://img.shields.io/badge/Apache%20Airflow-58A6FF?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-58A6FF?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-58A6FF?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-58A6FF?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-58A6FF?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-58A6FF?style=flat-square&logo=apacheairflow&logoColor=white"/>
 
 </p>
 
-🚀 Featured Work
+---
 
-<table> <tr>
+# 🚀 Featured Work
+
+<table>
+<tr>
 
 <td width="50%" valign="top">
 
-🖐️ ASIS
-Adaptive Screen Interaction System
+<h2>🖐️ ASIS</h2>
 
+<b>Adaptive Screen Interaction System</b>
+
+<p>
 A touchless human-computer interaction system using computer vision and machine learning.
+</p>
 
-Highlights
+**Highlights**
 
 🖐️ Real-time gesture recognition
 🎙️ Voice interaction
@@ -51,22 +91,27 @@ Highlights
 🤖 KNN-based recognition
 📷 OpenCV + MediaPipe
 
-Python OpenCV MediaPipe Scikit-learn
+`Python` `OpenCV` `MediaPipe` `Scikit-learn`
 
-<br>
+<br><br>
 
-<a href="YOUR_ASIS_REPOSITORY_URL"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="YOUR_ASIS_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-🌱 Greenland AI
-Environmental Intelligence Platform
+<h2>🌱 Greenland AI</h2>
 
+<b>Environmental Intelligence Platform</b>
+
+<p>
 An AI-powered environmental monitoring platform combining climate, agriculture and sustainability data.
+</p>
 
-Highlights
+**Highlights**
 
 🌍 Environmental monitoring
 🤖 Predictive analytics
@@ -74,25 +119,37 @@ Highlights
 ☁️ AWS + Airflow pipelines
 📊 Power BI dashboards
 
-Python TensorFlow Flask React AWS
+`Python` `TensorFlow` `Flask` `React` `AWS`
 
-<br>
+<br><br>
 
-<a href="YOUR_GREENLAND_REPOSITORY_URL"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="YOUR_GREENLAND_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
+
+---
 
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaketharamaBana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaketharamaBana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%"/>
+
+<a href="https://github.com/SaketharamaBana">
+<img src="https://github-readme-stats.vercel.app/api?username=SaketharamaBana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
+</a>
+
+<a href="https://github.com/SaketharamaBana">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaketharamaBana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" />
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaketharamaBana&theme=tokyonight&hide_border=true&mode=weekly" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=SaketharamaBana&theme=tokyonight&hide_border=true&mode=weekly" width="70%" />
 </p>
 
 ---
@@ -100,40 +157,30 @@ Python TensorFlow Flask React AWS
 # 🐍 Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaketharamaBana/SaketharamaBana/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/SaketharamaBana/SaketharamaBana/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+</p>
+
+<p align="center">
+  <i>Every contribution is a step forward.</i>
 </p>
 
 ---
 
-# 📊 Contribution Activity
+# 🎯 Currently Exploring
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaketharamaBana&theme=tokyonight" width="100%"/>
+
+⚙️ **Data Engineering**
+  •  
+🤖 **Machine Learning**
+  •  
+📊 **Data Analytics**
+  •  
+☁️ **Cloud Computing**
+  •  
+💻 **Backend Development**
+
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaketharamaBana&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaketharamaBana&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-# 💡 Engineering Mindset
-
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│   "The best projects start with a real problem."   │
-│                                                    │
-│   I believe technology becomes meaningful when     │
-│   it solves something beyond the screen.           │
-│                                                    │
-│   Learn → Experiment → Build → Measure → Improve  │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
-I'm interested in projects where **data becomes intelligence** and intelligence becomes a **useful product**.
 
 ---
 
@@ -142,7 +189,7 @@ I'm interested in projects where **data becomes intelligence** and intelligence 
 <p align="center">
 
 <a href="https://banasaketharama.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saketha-rama-bana07110/">
@@ -161,36 +208,22 @@ I'm interested in projects where **data becomes intelligence** and intelligence 
 
 ---
 
-# 🤝 Let's Build Something Interesting
-
 <p align="center">
 
-💡 Have an idea?
-
-  •  
-
-🤖 Want to collaborate on AI?
-
-  •  
-
-📊 Working on a data project?
-
-  •  
-
-🚀 Building something ambitious?
+<b>💡 Have an idea?</b>
+  •   <b>🤖 Want to collaborate?</b>
+  •   <b>🚀 Building something ambitious?</b>
 
 </p>
 
 <p align="center">
-
-<strong>Let's connect and build.</strong>
-
+  <strong>Let's connect and build something meaningful.</strong>
 </p>
 
----
+<!-- ==================== FOOTER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:111827,100:0f172a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=140&section=footer&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
