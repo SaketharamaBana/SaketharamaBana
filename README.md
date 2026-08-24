@@ -137,31 +137,50 @@ An AI-powered environmental monitoring platform combining climate, agriculture a
 # 📈 GitHub Analytics
 
 <p align="center">
+  <a href="https://github.com/SaketharamaBana">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=SaketharamaBana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+      width="49%"
+      alt="GitHub Stats"
+    />
+  </a>
 
-<a href="https://github.com/SaketharamaBana">
-<img src="https://github-readme-stats.vercel.app/api?username=SaketharamaBana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
-</a>
-
-<a href="https://github.com/SaketharamaBana">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaketharamaBana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" />
-</a>
-
+  <a href="https://github.com/SaketharamaBana">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaketharamaBana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      width="42%"
+      alt="Top Languages"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaketharamaBana&theme=tokyonight&hide_border=true&mode=weekly" width="70%" />
+  <img
+    src="https://streak-stats.demolab.com?user=SaketharamaBana&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Streak"
+  />
 </p>
-
 ---
 
 # 🐍 Contribution Journey
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/SaketharamaBana/SaketharamaBana/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SaketharamaBana/SaketharamaBana/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SaketharamaBana/SaketharamaBana/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/SaketharamaBana/SaketharamaBana/output/github-contribution-grid-snake.svg"
+      width="100%"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 <p align="center">
