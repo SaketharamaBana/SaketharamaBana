@@ -1,430 +1,88 @@
-# 👋 Hey, I'm Bana Saketharama
+👋 Hey, I'm Bana Saketharama
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Data+%26+AI+Enthusiast;Full-Stack+Developer;Building+Ideas+Into+Real+Products" alt="Typing SVG" /> </p>
+
+<p align="center"> <strong>Building at the intersection of Data • AI • Software</strong> </p>
+
+<p align="center"> <a href="https://banasaketharama.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-Visit-161B22?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/saketha-rama-bana07110/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="mailto:banasaketharama2005@gmail.com"> <img src="https://img.shields.io/badge/Email-Say%20Hello-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SaketharamaBana&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square" /> </p>
+
+✦ About Me
+
+I'm a Computer Science undergraduate specializing in Big Data Analytics at SRM Institute of Science and Technology.
+
+I enjoy turning data, AI and software ideas into practical products — from intelligent computer-vision systems to data-driven applications.
+
+🎓 CSE — Big Data Analytics
+📊 CGPA — 9.31 / 10
+💡 Interested in — Data • AI/ML • Software Engineering
+🚀 Currently learning — Data Engineering & Cloud
+⚡ Tech Stack
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:2563eb&height=220&section=header&text=BANA%20SAKETHARAMA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Data%20%26%20AI%20Builder&descAlignY=60&descSize=18" width="100%"/>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,spring,aws,mongodb,git,github" />
+
 </p>
 
 <p align="center">
-  <a href="https://banasaketharama.netlify.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/saketha-rama-bana07110/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:banasaketharama2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<img src="https://img.shields.io/badge/SQL-58A6FF?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-58A6FF?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-58A6FF?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-58A6FF?style=flat-square&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-58A6FF?style=flat-square"/> <img src="https://img.shields.io/badge/Apache%20Airflow-58A6FF?style=flat-square&logo=apacheairflow&logoColor=white"/>
+
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaketharamaBana&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" />
-</p>
+🚀 Featured Work
 
----
+<table> <tr>
 
-## 🧠 `whoami`
+<td width="50%" valign="top">
 
-```python
-class Saketharama:
+🖐️ ASIS
+Adaptive Screen Interaction System
 
-    def __init__(self):
-        self.name = "Bana Saketharama"
-        self.role = "Computer Science Engineer"
-        self.specialization = "Big Data Analytics"
-        self.location = "India"
+A touchless human-computer interaction system using computer vision and machine learning.
 
-        self.interests = [
-            "Data Engineering",
-            "Data Analytics",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Full-Stack Development",
-            "Cloud Computing"
-        ]
+Highlights
 
-        self.mindset = "Build → Learn → Improve → Repeat"
+🖐️ Real-time gesture recognition
+🎙️ Voice interaction
+👁️ Facial controls
+🤖 KNN-based recognition
+📷 OpenCV + MediaPipe
 
-    def current_focus(self):
-        return [
-            "Building intelligent systems",
-            "Solving real-world problems with data",
-            "Exploring scalable technologies",
-            "Growing through hands-on projects"
-        ]
-```
+Python OpenCV MediaPipe Scikit-learn
 
-> **I don't just write code — I turn ideas into data-driven products.**
+<br>
 
-I'm a Computer Science undergraduate specializing in **Big Data Analytics**, interested in building practical solutions across **AI, data, software engineering and cloud technologies**.
-
-My approach is simple:
-
-```text
-Problem
-   ↓
-Understand
-   ↓
-Design
-   ↓
-Build
-   ↓
-Analyze
-   ↓
-Improve
-   ↓
-Deploy
-```
-
----
-
-# ⚡ About Me
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Education
-
-**B.Tech — Computer Science & Engineering**
-Specialization: **Big Data Analytics**
-
-SRM Institute of Science and Technology
-📍 Chennai, India
-
-**CGPA: 9.31 / 10**
+<a href="YOUR_ASIS_REPOSITORY_URL"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 What I Do
+🌱 Greenland AI
+Environmental Intelligence Platform
 
-* 📊 Data Analytics
-* 🤖 Machine Learning
-* 🧠 NLP
-* 👁️ Computer Vision
-* ☁️ Cloud & Data Systems
-* 💻 Full-Stack Development
-* 🗄️ Database Development
-* ⚙️ Automation & Pipelines
+An AI-powered environmental monitoring platform combining climate, agriculture and sustainability data.
 
-</td>
-</tr>
-</table>
+Highlights
 
----
+🌍 Environmental monitoring
+🤖 Predictive analytics
+📈 85%+ model accuracy
+☁️ AWS + Airflow pipelines
+📊 Power BI dashboards
 
-# 🛠️ Tech Universe
+Python TensorFlow Flask React AWS
 
-### 💻 Programming
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🌐 Full-Stack Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,html,css" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge"/>
-</p>
-
-### 📊 Data & Analytics
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistics-7C3AED?style=for-the-badge"/>
-</p>
-
-### ☁️ Cloud / Databases / Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,mongodb,git,github,vercel" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Big%20Data-111827?style=for-the-badge"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-  <i>Some things I've built while exploring AI, data and software engineering.</i>
-</p>
-
----
-
-## 🖐️ Adaptive Screen Interaction System
-
-### `ASIS`
-
-> **A touchless human-computer interaction system powered by computer vision and machine learning.**
-
-<table>
-<tr>
-<td width="60%">
-
-### 🔥 What it does
-
-ASIS enables users to interact with a computer without traditional mouse or keyboard input.
-
-The system combines:
-
-* 🖐️ Hand gestures
-* 🎙️ Voice commands
-* 👁️ Facial controls
-* 🤖 Machine learning
-* 📷 Real-time computer vision
+<a href="YOUR_GREENLAND_REPOSITORY_URL"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 </td>
 
-<td width="40%">
-
-### ⚙️ Stack
-
-```text
-Python
-OpenCV
-MediaPipe
-Scikit-learn
-KNN
-```
-
-</td>
-</tr>
-</table>
-
-### ✨ Highlights
-
-* Real-time gesture recognition
-* Touchless desktop interaction
-* Machine-learning based gesture classification
-* Computer vision processing
-* Voice-assisted interaction
-* Research-oriented implementation
-* Presented as a research paper at an international conference
-
-<p>
-<a href="YOUR_ASIS_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/🔗%20Explore%20ASIS-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-# 🌱 Greenland AI
-
-### `Environmental Monitoring & Analytics Platform`
-
-> **An AI-powered environmental monitoring platform combining climate, agriculture and sustainability data.**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌍 Intelligence Layer
-
-* Climate analytics
-* Agricultural data
-* Sustainability monitoring
-* Predictive modeling
-* Machine learning
-* 85%+ model accuracy
-
-</td>
-
-<td width="50%">
-
-### ☁️ Engineering Layer
-
-* Apache Airflow
-* AWS S3
-* Flask
-* React.js
-* Power BI
-* Automated data pipelines
-
-</td>
-</tr>
-</table>
-
-### 🔥 Architecture
-
-```text
-        DATA SOURCES
-             │
-             ▼
-       ┌─────────────┐
-       │    AWS S3   │
-       └──────┬──────┘
-              │
-              ▼
-       ┌─────────────┐
-       │   Airflow   │
-       │   Pipeline  │
-       └──────┬──────┘
-              │
-              ▼
-       ┌─────────────┐
-       │ Data / ML   │
-       │ Processing  │
-       └──────┬──────┘
-              │
-       ┌──────┴──────┐
-       ▼             ▼
-  ┌─────────┐   ┌──────────┐
-  │ ML Model│   │ Power BI │
-  └────┬────┘   └────┬─────┘
-       │             │
-       └──────┬──────┘
-              ▼
-       ┌─────────────┐
-       │   Insights  │
-       └─────────────┘
-```
-
-<p>
-<a href="YOUR_GREENLAND_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/🔗%20Explore%20Greenland%20AI-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-# 💼 Professional Experience
-
-### 📊 Data Analytics Intern
-
-**ApexPlanet Software Pvt. Ltd.**
-`June 2026 – July 2026`
-
-Worked on practical data analytics assignments involving:
-
-* Dataset analysis
-* Pattern identification
-* Trend analysis
-* Problem solving
-* Real-world analytical workflows
-
----
-
-### 📈 Data Analyst Intern
-
-**Brainwave Matrix Solutions**
-`January 2024 – February 2024`
-
-```text
-Python + SQL
-     │
-     ▼
-Sales & Revenue Analysis
-     │
-     ▼
-Patterns & Trends
-     │
-     ▼
-Automated Dashboards
-     │
-     ▼
-Actionable Insights
-```
-
-### Key Highlights
-
-* 📊 Analyzed sales and revenue datasets
-* ⚡ Built automated dashboards
-* ⏱️ Reduced reporting time by approximately **30%**
-* 🧠 Performed NLP-based sentiment analysis
-* 🤖 Applied ML and statistical models
-* 📈 Identified trends and predictive insights
-
----
-
-# 🧩 Problem Solving
-
-I enjoy working on problems that require a combination of:
-
-```text
-Data Structures
-       +
-Algorithms
-       +
-Logical Thinking
-       +
-Data
-       +
-Software Engineering
-       =
-Real Solutions
-```
-
-### Core Foundations
-
-`DSA` · `OOP` · `DBMS` · `SQL` · `Problem Solving`
-
----
-
-# 🎯 Current Mission
-
-```text
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║        BUILDING MY NEXT LEVEL OF SKILLS            ║
-║                                                    ║
-║  ████████████████████████████████████████████      ║
-║                                                    ║
-║  Data Engineering     ███████████████░░░           ║
-║  Machine Learning     ███████████████░░░           ║
-║  SQL & Analytics      █████████████████░           ║
-║  Cloud Computing      █████████████░░░░            ║
-║  Backend Development  █████████████░░░░            ║
-║  DSA & Problem Solving████████████████░            ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
-
-### Currently Exploring
-
-* 🏗️ Scalable data architectures
-* ☁️ Cloud-based systems
-* 🤖 Applied machine learning
-* 📊 Advanced analytics
-* ⚙️ Data pipelines
-* 💻 Backend engineering
-* 🧠 System design
-
----
-
-# 🏆 Certifications
-
-| Certification                               | Organization        |
-| ------------------------------------------- | ------------------- |
-| ☁️ AWS Academy Graduate – Cloud Foundations | AWS Academy         |
-| 📊 Big Data Computing                       | NPTEL — IIT Kanpur  |
-| ☁️ Cloud Computing & Distributed Systems    | NPTEL — IIT Kanpur  |
-| 💻 Data Structures & Algorithms using Java  | Infosys Springboard |
-
----
+</tr> </table>
 
 # 📈 GitHub Analytics
 
