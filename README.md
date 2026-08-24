@@ -157,7 +157,11 @@ An AI-powered environmental monitoring platform combining climate, agriculture a
 # 🐍 Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SaketharamaBana/SaketharamaBana/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+  <img
+    src="https://raw.githubusercontent.com/SaketharamaBana/SaketharamaBana/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 <p align="center">
