@@ -95,7 +95,7 @@ A touchless human-computer interaction system using computer vision and machine 
 
 <br><br>
 
-<a href="YOUR_ASIS_REPOSITORY_URL">
+<a href="https://github.com/SaketharamaBana/ASIS-adaptive-screen-interaction-sysytem-NEXUS">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -123,7 +123,7 @@ An AI-powered environmental monitoring platform combining climate, agriculture a
 
 <br><br>
 
-<a href="YOUR_GREENLAND_REPOSITORY_URL">
+<a href="https://github.com/SaketharamaBana/greenload-ai">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
